@@ -1,21 +1,4 @@
----
-title: Syntax tree grammar engine
-type: reference
-shortTitle: SyntaxAI
-intro: 'Explore SyntaxAI: a powerful AI-powered tool for generating syntactic trees from natural language input using Expo Router and Supabase.'
-product: "{{ optional SyntaxAI Mobile App }}"
-topics:
-  - linguistics
-  - react-native
-  - nlp
-  - mobile-development
-versions:
-  - latest
----
 
-{% comment %}
-Follow the guidelines in https://docs.github.com/contributing/writing-for-github-docs/content-model#referential to write this article.
-{% endcomment %}
 
 # 🌐 SyntaxAI — Advanced Syntax Tree Generator App
 
