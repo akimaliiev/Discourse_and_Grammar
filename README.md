@@ -46,3 +46,26 @@ npx create-expo-app syntaxai -e with-router
 cd syntaxai
 npm install
 npx expo start
+---
+
+
+## 📂 Directory Structure
+
+```bash
+app/
+├── index.tsx                   # Home screen
+├── tree/[sentence].tsx         # Dynamic tree for input sentence
+
+components/
+├── TreeView.tsx                # Syntax tree renderer
+├── ChatBox.tsx                 # AI explanation chat interface
+├── InputField.tsx              # Sentence input
+
+lib/
+├── parser.ts                   # Tokenizer + grammar rule logic
+├── treeBuilder.ts              # Converts rules into tree nodes
+├── aiService.ts                # DeepSeek integration
+
+contexts/
+├── AuthContext.tsx             # Authentication state
+├── TreeContext.tsx             # Shared tree state
