@@ -121,7 +121,15 @@ SyntaxAI supports analysis of:
 - ✅ Profile screen with avatar upload
 - ⏳ Language preference selection *(coming soon)*
 
-🎨 *Insert screenshot of login/profile screens*
+<p align="center">
+  <img src="assets/IMG_1780.PNG" alt="Screenshot 1" width="30%" />
+  <img src="assets/IMG_1781.PNG" alt="Screenshot 2" width="30%" />
+  <img src="assets/IMG_1782.PNG" alt="Screenshot 1" width="30%" />
+
+</p>
+
+
+
 
 ---
 
@@ -144,7 +152,6 @@ SyntaxAI supports analysis of:
 - Tree editing mode *(in progress)*
 - Export trees as SVG/PNG *(upcoming)*
 
-🌳 *Insert screenshot of tree: “The cat sits on the mat”*
 
 ---
 
@@ -162,7 +169,6 @@ SyntaxAI supports analysis of:
 - Chat history with scroll persistence
 - Typing indicator for AI response progress
 
-🧠 *Insert screenshot of AI chat explaining a sentence*
 
 ---
 
@@ -217,7 +223,6 @@ SyntaxAI supports analysis of:
 | App Performance    | Rendering and AI response latency               |
 | API Health         | Uptime and error rate of Supabase and AI APIs  |
 
-📈 *Insert screenshot: Analytics or Usage Report*
 
 ---
 
