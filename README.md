@@ -9,7 +9,7 @@ Users can enter complex or simple sentences and receive:
 - Provides a fun and interactive and educational experience for linguists, students and NLP fans.
   
 <p align="center">
-  <a href="assets/demo.mp4">
+  <a href="assets/demo.MP4">
     <img src="assets/demo-poster.png" alt="▶️ Watch the SyntaxAI Demo" width="640"/>
   </a>
 </p>
