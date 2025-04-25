@@ -123,11 +123,12 @@ SyntaxAI supports analysis of:
 - ✅ Configuration of ESLint + Prettier
 - ✅ Git strategy and branching
 
-<p align="center">
-  <img src="assets/IMG_1780.PNG" alt="Screenshot 1" width="30%" />
-  <img src="assets/IMG_1781.PNG" alt="Screenshot 2" width="30%" />
-  <img src="assets/IMG_1782.PNG" alt="Screenshot 1" width="30%" />
+<p align="start">
+  <img src="assets/database.png" alt="Screenshot 1" width="30%" />
+</p>
 
+<p align="start">
+  <img src="assets/tables_qr.png" alt="Screenshot 2" width="30%" />
 </p>
 
 ---
