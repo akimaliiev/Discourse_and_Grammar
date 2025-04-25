@@ -4,11 +4,11 @@
 
 **SyntaxAI** is an advanced mobile application built with [React Native](https://reactnative.dev/) and powered by [`expo-router`](https://docs.expo.dev/router/introduction/), designed for **linguistic analysis**, **syntax visualization**, and **AI-enhanced explanation** of **phrase structure grammars**.
 
-Users can input complex or simple sentences and receive:
-- **Syntactic trees** generated from underlying **grammar rules**
-- **Discourse-level analyses** based on multi-clause structures
-- **AI explanations** based on linguistic theory (e.g., constituency, dependency grammar)
-- Interactive and educational experience for linguists, students, and NLP enthusiasts
+Users can enter complex or simple sentences and receive:
+- **Syntactic trees** from underlying **grammar rules**
+- **Discourse-level analyses** of multi-clause structures
+- **AI explanations** from linguistic theory ( Constituency and dependency grammar)
+- Provides a fun and interactive and educational experience for linguists, students and NLP fans.
 
 ---
 
