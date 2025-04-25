@@ -35,6 +35,27 @@ npm install
 npx expo start
 ```
 
+---
+
+## 🚀 Running the Project
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/akimaliiev/Discourse_and_Grammar.git
+   cd Discourse_and_Grammar
+2. **Install dependencies**
+   ```bash
+   npm install
+3. **Set up your environment**
+   - Create a .env file in the root of the project
+   - Add your Supabase URL and anon key:
+   ```bash
+   SUPABASE_URL=your-project-url
+   SUPABASE_ANON_KEY=your-anon-key
+4. **Start your development server**
+   ```bash
+   npx expo start
+
 <p align="start">
   <img src="assets/project.png" alt="Screenshot 1" width="30%" />
 </p>
@@ -46,27 +67,6 @@ npx expo start
 <p align="start">
   <img src="assets/project_ip.png" alt="Screenshot 3" width="30%" />
 </p>
-
----
-
-## 🚀 How to Run the Project
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/akimaliiev/Discourse_and_Grammar.git
-   cd Discourse_and_Grammar
-2. **Install dependencies**
-   ```bash
-   npm install
-3. **Configure environment**
-   - Create a .env file in the project root
-   - Add your Supabase URL and anon key:
-   ```bash
-   SUPABASE_URL=your-project-url
-   SUPABASE_ANON_KEY=your-anon-key
-4. **Start the development server**
-   ```bash
-   npx expo start
 
 ---
 
