@@ -128,7 +128,7 @@ SyntaxAI supports analysis of:
 </p>
 
 <p align="start">
-  <img src="assets/tables_qr.png" alt="Screenshot 2" width="30%" />
+  <img src="assets/tables.png" alt="Screenshot 2" width="30%" />
 </p>
 
 ---
