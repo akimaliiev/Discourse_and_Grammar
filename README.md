@@ -278,24 +278,25 @@ SyntaxAI supports analysis of:
 ## 🏗️ Why We Chose This Tech Stack
 
 **React Native + Expo**
-- Cross-platform mobile framework with fast refresh and zero-config builds—ideal for rapid prototyping and classroom demos.
-expo-router
-- File-based routing mirrors web conventions, keeping navigation declarative and easy to extend.
+- A cross-platform mobile framework that provides fast refresh, zero-config builds, and is great for rapid prototyping and classroom demos.
+
+**expo-router**
+- Provides file-based routing, which brings web conventions to mobile development and allows the use of declarative navigation that we can extend.
 
 **Supabase**
-- Managed Postgres backend with built-in auth, row-level security, and real-time updates—no infrastructure hassle.
+- A managed Postgres backend that provides auth, access control via row-level security, real-time updates, and allows users to avoid the hassle of infrastructure.
 
 **React Native Paper**
-- Production-ready UI library following Material design, ensuring consistent theming and accessibility out of the box.
+- A production ready UI library based on Material design and providing consistent theming and accessibility out of the box.
 
 **DeepSeek API**
-- Specialized NLP service for syntactic explanations—lets us offload heavy AI models and stay focused on UX.
+- A NLP solution that does syntactic explanations - essentially lets us offload the burden of using heavy AI models to allow the developers to focus more on the UX.
 
 **TypeScript**
-- Strong typing catches errors early, documents data shapes (e.g., tree nodes), and makes onboarding new contributors smoother.
+- Expanding on strong typing allows developers to catch issues early, provide documentation of data shapes (e.g. tree nodes), and make it almost painless to bring aboard new contributors.
 
 **Custom Grammar Modules**
-- Encapsulate our PSG and dependency rules in isolated libraries for maintainability and easy extension to new languages.
+- Allows us to encapsulate our PSG and dependency rules into isolated libraries, which makes them easy to maintain or extend to new languages.
 
 # 📚 References
 
