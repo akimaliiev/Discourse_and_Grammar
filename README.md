@@ -275,6 +275,28 @@ SyntaxAI supports analysis of:
 
 ---
 
+## 🏗️ Why We Chose This Tech Stack
+
+**React Native + Expo**
+- Cross-platform mobile framework with fast refresh and zero-config builds—ideal for rapid prototyping and classroom demos.
+expo-router
+- File-based routing mirrors web conventions, keeping navigation declarative and easy to extend.
+
+**Supabase**
+- Managed Postgres backend with built-in auth, row-level security, and real-time updates—no infrastructure hassle.
+
+**React Native Paper**
+- Production-ready UI library following Material design, ensuring consistent theming and accessibility out of the box.
+
+**DeepSeek API**
+- Specialized NLP service for syntactic explanations—lets us offload heavy AI models and stay focused on UX.
+
+**TypeScript**
+- Strong typing catches errors early, documents data shapes (e.g., tree nodes), and makes onboarding new contributors smoother.
+
+**Custom Grammar Modules**
+- Encapsulate our PSG and dependency rules in isolated libraries for maintainability and easy extension to new languages.
+
 # 📚 References
 
 - [Expo Router Documentation](https://docs.expo.dev/router/introduction/)
