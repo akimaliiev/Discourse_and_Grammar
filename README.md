@@ -151,9 +151,9 @@ SyntaxAI supports analysis of:
 
 
 <p align="center">
-  <img src="assets/IMG_1780.PNG" alt="Screenshot 1" width="30%" />
-  <img src="assets/IMG_1781.PNG" alt="Screenshot 2" width="30%" />
-  <img src="assets/IMG_1782.PNG" alt="Screenshot 1" width="30%" />
+  <img src="assets/IMG_1783.PNG" alt="Screenshot 1" width="30%" />
+  <img src="assets/IMG_1784.PNG" alt="Screenshot 2" width="30%" />
+  <img src="assets/IMG_1785.PNG" alt="Screenshot 1" width="30%" />
 
 </p>
 
@@ -173,6 +173,12 @@ SyntaxAI supports analysis of:
 - Chat history with scroll persistence
 - Typing indicator for AI responses.
 
+<p align="center">
+  <img src="assets/IMG_1786.PNG" alt="Screenshot 1" width="30%" />
+  <img src="assets/IMG_1788.PNG" alt="Screenshot 2" width="30%" />
+  <img src="assets/IMG_1787.PNG" alt="Screenshot 1" width="30%" />
+
+</p>
 
 ---
 
