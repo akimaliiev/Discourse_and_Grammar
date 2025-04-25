@@ -347,19 +347,19 @@ SyntaxAI supports analysis of:
 ## 🐞 Troubleshooting & FAQs
 
 **“Cannot find module ‘expo-router’”**
-Check that you are using the right Expo SDK version and run npm install.
+- Check that you are using the right Expo SDK version and run npm install.
 
 **Authentication not working on startup**
-Make sure your .env keys match what is on the Supabase dashboard and restart after making edits.
+- Make sure your .env keys match what is on the Supabase dashboard and restart after making edits.
 
 **The tree is not being shown for long sentences**
-Try decreasing the zoom level, or ask shorter questions. We are working on this issue in v1.2.
+- Try decreasing the zoom level, or ask shorter questions. We are working on this issue in v1.2.
 
 **Chat responses delayed**
-Make sure your DeepSeek API key is valid and your network allows outbound HTTPS calls.
+- Make sure your DeepSeek API key is valid and your network allows outbound HTTPS calls.
 
 **Still stuck?**
-Open an issue on github or message in telegram @assetkv.
+- Open an issue on github or message in telegram @assetkv.
 
 ---
 
