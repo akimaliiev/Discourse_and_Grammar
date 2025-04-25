@@ -8,11 +8,7 @@ Users can enter complex or simple sentences and receive:
 - **AI explanations** from linguistic theory ( Constituency and dependency grammar)
 - Provides a fun and interactive and educational experience for linguists, students and NLP fans.
   
-<p align="center">
-  <a href="assets/demo.MP4">
-    <img src="assets/demo-poster.png" alt="▶️ Watch the SyntaxAI Demo" width="640"/>
-  </a>
-</p>
+[![▶️ Watch the demo](https://img.youtube.com/vi/G7LounlxPdA/0.jpg)](https://youtu.be/G7LounlxPdA)
 
 ---
 
