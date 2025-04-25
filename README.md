@@ -7,6 +7,8 @@ Users can enter complex or simple sentences and receive:
 - **Discourse-level analyses** of multi-clause structures
 - **AI explanations** from linguistic theory ( Constituency and dependency grammar)
 - Provides a fun and interactive and educational experience for linguists, students and NLP fans.
+
+**Demo of our project**
   
 [![▶️ Watch the demo](https://img.youtube.com/vi/G7LounlxPdA/0.jpg)](https://youtu.be/G7LounlxPdA)
 
