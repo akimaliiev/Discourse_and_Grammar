@@ -49,6 +49,26 @@ npx expo start
 
 ---
 
+## 🚀 How to Run the Project
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/akimaliiev/Discourse_and_Grammar.git
+   cd Discourse_and_Grammar
+2. **Install dependencies**
+   ```bash
+   npm install
+3. **Configure environment**
+   - Create a .env file in the project root
+   - Add your Supabase URL and anon key:
+   ```bash
+   SUPABASE_URL=your-project-url
+   SUPABASE_ANON_KEY=your-anon-key
+4. **Start the development server**
+   ```bash
+   npx expo start
+
+---
 
 ## 📂 Directory Structure
 
