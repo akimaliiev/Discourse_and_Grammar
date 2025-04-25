@@ -9,6 +9,10 @@ Users can enter complex or simple sentences and receive:
 - **Discourse-level analyses** of multi-clause structures
 - **AI explanations** from linguistic theory ( Constituency and dependency grammar)
 - Provides a fun and interactive and educational experience for linguists, students and NLP fans.
+- 
+<video src="assets/demo.mp4" controls width="640">
+  Sorry, your browser doesn’t support embedded videos.
+</video>
 
 ---
 
