@@ -34,6 +34,14 @@ cd syntaxai
 npm install
 npx expo start
 ```
+
+<p align="center">
+  <img src="assets/project.PNG" alt="Screenshot 1" width="30%" />
+  <img src="assets/project_qr.PNG" alt="Screenshot 2" width="30%" />
+  <img src="assets/project_ip.PNG" alt="Screenshot 1" width="30%" />
+
+</p>
+
 ---
 
 
@@ -110,7 +118,12 @@ SyntaxAI supports analysis of:
 - ✅ Configuration of ESLint + Prettier
 - ✅ Git strategy and branching
 
-🗪 *Insert screenshot of Supabase table structure*
+<p align="center">
+  <img src="assets/IMG_1780.PNG" alt="Screenshot 1" width="30%" />
+  <img src="assets/IMG_1781.PNG" alt="Screenshot 2" width="30%" />
+  <img src="assets/IMG_1782.PNG" alt="Screenshot 1" width="30%" />
+
+</p>
 
 ---
 
