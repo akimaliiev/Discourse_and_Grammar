@@ -35,15 +35,15 @@ npm install
 npx expo start
 ```
 
-<p align="center">
+<p align="start">
   <img src="assets/project.png" alt="Screenshot 1" width="30%" />
 </p>
 
-<p align="center">
+<p align="start">
   <img src="assets/project_qr.png" alt="Screenshot 2" width="30%" />
 </p>
 
-<p align="center">
+<p align="start">
   <img src="assets/project_ip.png" alt="Screenshot 3" width="30%" />
 </p>
 
