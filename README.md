@@ -11,8 +11,8 @@ Users can enter complex or simple sentences and receive:
 **Demo of our project:**
   
 <p align="center">
-  <a href="https://youtu.be/fJeEWm7nTHI">
-    <img src="https://img.youtube.com/vi/fJeEWm7nTHI/0.jpg" alt="▶️ Watch the SyntaxAI Demo" width="640"/>
+  <a href="https://youtu.be/7XZXT-ADBlQ">
+    <img src="https://img.youtube.com/vi/7XZXT-ADBlQ/0.jpg" alt="▶️ Watch the SyntaxAI Demo" width="640"/>
   </a>
 </p>
 
