@@ -7,15 +7,13 @@ Users can enter complex or simple sentences and receive:
 - **Discourse-level analyses** of multi-clause structures
 - **AI explanations** from linguistic theory ( Constituency and dependency grammar)
 - Provides a fun and interactive and educational experience for linguists, students and NLP fans.
-
-  <p align="start">
-    
-    <video src="assets/demo.MP4" controls width="640">
-    Sorry, your browser doesn’t support embedded videos.
-    </video>
-    
-  </p>
   
+<p align="center">
+  <a href="assets/demo.mp4">
+    <img src="assets/demo-poster.png" alt="▶️ Watch the SyntaxAI Demo" width="640"/>
+  </a>
+</p>
+
 ---
 
 ## 📆 Tech Stack Overview
