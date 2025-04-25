@@ -134,6 +134,28 @@ SyntaxAI supports analysis of:
 
 ---
 
+## 🔧 App Functions
+
+**Sentence Input & Language Choice**
+- The user may enter or paste any sentence and choose from one of the following language options (EN, ES, RU, KZ).
+
+**Tree Creation**
+- The central parser applies the CFG and creates an interactive tree diagram.
+
+**AI Explanations**
+- For Human Readability, the DeepSeek provides human readable commentary of each constituent (Example, "This NP is doing the work of the subject....").
+
+**Discourse Grammar Analysis**
+- The application indicates clauses, coordination, subordination, topicalization, and shows everything in context.
+
+**Tree Functionality**
+- There are options to save, edit, export (svg/png), and share trees. The user can access a history option to see what he/she has analyzed in the past.
+
+**Chat Function**
+- The user can ask follow-up questions in the live chat panel (e.g., get clarification on parse decisions).
+
+---
+
 # 🛠️ SyntaxAI Development Roadmap
 
 ## 📌 Phase 1: Setup & Infrastructure
@@ -297,6 +319,8 @@ SyntaxAI supports analysis of:
 
 **Custom Grammar Modules**
 - Allows us to encapsulate our PSG and dependency rules into isolated libraries, which makes them easy to maintain or extend to new languages.
+
+---
 
 # 📚 References
 
