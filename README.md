@@ -322,6 +322,47 @@ SyntaxAI supports analysis of:
 
 ---
 
+## ➕ Contribution Guidelines
+
+**Branching**
+- main for stable releases
+- dev for none stable ongoing work
+- Feature branches: feature/
+
+**Code Style**
+- Follow ESLint/Prettier rules; run npm run lint before PR.
+
+**Testing**
+- Add unit tests for any new parser rules or UI components.
+- run npm test and cover at least ≥ 80% test coverage.
+
+**Pull Requests**
+- Only one feature per PR; reference the issue and screen shot if UI changes.
+
+**Reviews & Merging**
+- Require 1 to 2 approvals and maintainers will merge after CI runs successfully.
+
+---
+
+## 🐞 Troubleshooting & FAQs
+
+**“Cannot find module ‘expo-router’”**
+Check that you are using the right Expo SDK version and run npm install.
+
+**Authentication not working on startup**
+Make sure your .env keys match what is on the Supabase dashboard and restart after making edits.
+
+**The tree is not being shown for long sentences**
+Try decreasing the zoom level, or ask shorter questions. We are working on this issue in v1.2.
+
+**Chat responses delayed**
+Make sure your DeepSeek API key is valid and your network allows outbound HTTPS calls.
+
+**Still stuck?**
+Open an issue on github or message in telegram @assetkv.
+
+---
+
 # 📚 References
 
 - [Expo Router Documentation](https://docs.expo.dev/router/introduction/)
